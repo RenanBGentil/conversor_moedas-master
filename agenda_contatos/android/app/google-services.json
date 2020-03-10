@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176541265691",
+    "firebase_url": "https://chatonlineflutter-8b44f.firebaseio.com",
+    "project_id": "chatonlineflutter-8b44f",
+    "storage_bucket": "chatonlineflutter-8b44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176541265691:android:9cbbf8d96b11395b2a2dbe",
+        "android_client_info": {
+          "package_name": "com.renan.agenda_contatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176541265691-sf1sfehggnfde2jjd9rg4bmqgmosspri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOd_NfioZKfcF9tc_sTQhZkmfdtuxZYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176541265691-sf1sfehggnfde2jjd9rg4bmqgmosspri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
